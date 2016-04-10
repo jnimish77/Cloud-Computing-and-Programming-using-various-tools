@@ -1,9 +1,10 @@
 #########################################################
-#														                            #
-#  Nimish Joshi							                    				#
-#  										                                	#
-#  Homework #5 Python Program using MPI		        			#
-#													                            	#
+#		             	                        #
+#  Nimish Joshi						#
+#  							#
+#  MPI: matrix Multiplication using                     #
+#       Covllective Commnication	                #
+#						        #
 #########################################################
 
 import numpy as np
