@@ -42,9 +42,9 @@
 * secobnd would be to create reducer.py
 *The point to be noted here is that first the mapper class executes completely on the entire data set splitting the words and forming  the initial key value pairs. Only after this entire process is completed the reducer starts. Say if we have a total of 10 lines in    our input files combined together, first the 10 lines are tokenized and key value pairs are formed in parallel, only after this the   aggregation/ reducer would start its operation.
 
-*Now coming to the practical side of implementation we need our input file and map reduce program jar to do the process job. In a      common map reduce process two methods do the key job namely the map and reduce , the main method would trigger the map and reduce     methods.
+* Now coming to the practical side of implementation we need our input file and map reduce program jar to do the process job. In a      common map reduce process two methods do the key job namely the map and reduce , the main method would trigger the map and reduce     methods.
 
-  *Now, in the next step we will be running this file to the Local environment: using the CLI:
+   *Now, in the next step we will be running this file to the Local environment: using the CLI:
 
           $ cat unixstadiums.csv | python mapper.py |
           $ cat unixstadiums.csv | python mapper.py | python reducer.py
