@@ -13,13 +13,14 @@
 * Hadoop is written in JAVA that give a Hadoop is written in java: provides a distributed file system (HDFS) and a framework+api for   building and running Map reduce jobs
 * HDFS is a fle system which is distributed across several machines. Not a relacement to a regular file system.
 * HFDS has built in mechanisms to optimize throughput and handle machine outages.
-* Data node: where HDFS stores the data
-* Name node: Master machine
-* Secondary Name node: keeps a copy of edit logs, filesystem image (to be deprecated?)
-* Data is accessed using Java API or command line
+  * Data node: where HDFS stores the data
+  * Name node: Master machine
+  * Secondary Name node: keeps a copy of edit logs, filesystem image (to be deprecated?)
+  * Data is accessed using Java API or command line
 * Here is the place where we keep our file that is need to be mapped. In perticlular case our file will be “ unixstadiums.csv”
 * To double check this file into the correct place we type:
-* 
+    hdfs  dfs -ls /taxi
+
 * MapReduce layer in Hadoop: Hadoop has APIs for Map (transformation) and Reduce (aggregation) operations
 * Output to  reduce: Key, Value pair. Input to reduce: Key, Inerrable[Value]. Now  reducer is called once per key output by map.       Inerrable value is the set of values output by the map phase.
 * 3 stages between map and reduce: partitioning, sorting, grouping. Provide scaling.
