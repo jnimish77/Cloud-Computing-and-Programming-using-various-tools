@@ -56,3 +56,8 @@
 
 
       ![1](https://cloud.githubusercontent.com/assets/14539985/14413276/a742bb20-ff3a-11e5-8ebc-f7602eb09e61.png)
+
+* Now in second python file, it will reduce the data that is being scripted as per our requirement:
+
+
+      
