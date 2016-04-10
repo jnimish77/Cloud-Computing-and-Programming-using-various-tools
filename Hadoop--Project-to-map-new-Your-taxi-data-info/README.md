@@ -65,4 +65,11 @@
 
 * Now, we will sort the values into two points by using 'sort' in between the mapper and reducer file:
 
-      
+      ![image](https://cloud.githubusercontent.com/assets/14539985/14413310/cd76aabc-ff3b-11e5-900a-1a70f4a10955.png)
+
+
+# Running the Project on Hadoop Cluster
+
+* In order to run the program on the cluster we need to make sure that the input file “ unixstadium.csv” is there on the cluster
+    *we will run this followin command.
+        
