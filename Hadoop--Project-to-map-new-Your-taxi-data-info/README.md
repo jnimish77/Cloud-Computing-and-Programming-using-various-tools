@@ -71,5 +71,18 @@
 # Running the Project on Hadoop Cluster
 
 * In order to run the program on the cluster we need to make sure that the input file “ unixstadium.csv” is there on the cluster
-    *we will run this followin command.
-        
+    
+     *we will run this followin command.
+          hadoop \
+          jar /usr/hdp/current/hadoop-mapreduce-client/hadoop-streaming-2.7.1.2.3.2.0-2950.jar \
+          -file /home/abc123/mapper.py \
+          -mapper mapper.py \
+          -file /home/abc123/reducer.py \
+          -reducer reducer.py \
+          -input /taxi/abc123/unixstadiums.csv \
+          -output /home/abc123/unixstadium_final_output.txt
+
+*Now , we will see the resulting screeen as :
+
+
+    
