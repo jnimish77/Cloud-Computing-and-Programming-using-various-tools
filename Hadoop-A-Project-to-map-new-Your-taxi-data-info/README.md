@@ -19,7 +19,8 @@
   * Data is accessed using Java API or command line
 * Here is the place where we keep our file that is need to be mapped. In perticlular case our file will be “ unixstadiums.csv”
 * To double check this file into the correct place we type:
-    hdfs  dfs -ls /taxi
+    
+      hdfs  dfs -ls /taxi
 
 * MapReduce layer in Hadoop: Hadoop has APIs for Map (transformation) and Reduce (aggregation) operations
 * Output to  reduce: Key, Value pair. Input to reduce: Key, Inerrable[Value]. Now  reducer is called once per key output by map.       Inerrable value is the set of values output by the map phase.
