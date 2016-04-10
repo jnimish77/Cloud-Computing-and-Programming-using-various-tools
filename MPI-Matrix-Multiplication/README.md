@@ -4,4 +4,4 @@ Matrix Multiplication of two of them using point to point Communication & Using 
 
 -mpirun/mpiexec : either can be used
 
-    mpirun/mpiexec -n -10 python <file/oldername> 
+    mpirun/mpiexec -n -10 python <file/file with location> 
