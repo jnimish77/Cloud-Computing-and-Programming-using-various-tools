@@ -4,4 +4,4 @@ Matrix Multiplication of two of them using Collective Communication
 
 -mpirun/mpiexec : either can be used
 
-mpirun/mpiexec -n -(num.of nodes) python <file/file with location> 
+    mpirun/mpiexec -n -(num.of nodes) python <file/file with location> 
