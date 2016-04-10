@@ -1,6 +1,6 @@
 # Overveiw
 
-Matrix Multiplication of two matrix using point to point Communication & Using 10 nodes
+Matrix Multiplication of two of them using point to point Communication & Using 10 nodes
 
 -mpirun/mpiexec : either can be used
 
