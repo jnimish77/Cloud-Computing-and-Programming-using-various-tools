@@ -5,7 +5,7 @@
 #Note: 
  * This is an academic project: 
  
- * it rewuires a file called "unixstadium.csv' on hadoop cluster (in this case it was built in the campus's cloud infrastructure) that was insid the directory name'taxi'
+ * it requires a file called "unixstadium.csv' on hadoop cluster (in this case it was built in the campus's cloud infrastructure) that was insid the directory name'taxi'
 
 
 # Introduction
