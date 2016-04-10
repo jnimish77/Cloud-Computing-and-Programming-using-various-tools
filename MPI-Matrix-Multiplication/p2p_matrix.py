@@ -1,10 +1,10 @@
 #########################################################
-#														#
-#  Nimish Joshi											#
-#  														#
-#  MPI: Matrix Multiplication using						#
-#       Point to Point Communication					#
-#														#
+#							#
+#  Nimish Joshi						#
+#  							#
+#  MPI: Matrix Multiplication using			#
+#       Point to Point Communication			#
+#							#
 #########################################################
 
 import numpy as np
