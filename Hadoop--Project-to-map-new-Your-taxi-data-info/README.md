@@ -82,11 +82,13 @@
           -input /taxi/abc123/unixstadiums.csv \
           -output /home/abc123/unixstadium_final_output.txt
 
-* Now , we will see the resulting screeen as :
-
-        ![image](https://cloud.githubusercontent.com/assets/14539985/14413360/e9b1326e-ff3c-11e5-8de9-872472558ab4.png)
-        
-
-        ![image](https://cloud.githubusercontent.com/assets/14539985/14413363/f20747be-ff3c-11e5-955e-228a07678480.png)
+     *Now , we will see the resulting screeen as
+     
+     
+     ![image](https://cloud.githubusercontent.com/assets/14539985/14413360/e9b1326e-ff3c-11e5-8de9-872472558ab4.png)
+     
+     
+     
+     ![image](https://cloud.githubusercontent.com/assets/14539985/14413363/f20747be-ff3c-11e5-955e-228a07678480.png)
 
     
