@@ -50,6 +50,9 @@
           $ cat unixstadiums.csv | python mapper.py | python reducer.py
           $ cat unixstadiums.csv | python mapper.py | sort |  python reducer.py
 
-* 
+# Output Screen
+
+* the first mapper file will give the output as
+
 
       ![1](https://cloud.githubusercontent.com/assets/14539985/14413276/a742bb20-ff3a-11e5-8ebc-f7602eb09e61.png)
