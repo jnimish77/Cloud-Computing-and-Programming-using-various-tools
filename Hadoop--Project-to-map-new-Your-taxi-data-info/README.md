@@ -60,4 +60,9 @@
 * Now in second python file, it will reduce the data that is being scripted as per our requirement:
 
 
+      ![image](https://cloud.githubusercontent.com/assets/14539985/14413295/4e278e84-ff3b-11e5-9532-3e0cb294638a.png)
+
+
+* Now, we will sort the values into two points by using 'sort' in between the mapper and reducer file:
+
       
