@@ -1,9 +1,9 @@
 #########################################################
-#													                            	#
-#  Nimish Joshi							                    				#
-# 									                                  	#
-#  Reducer				                                    	#
-#													                            	#
+#							#
+#  Nimish Joshi						#
+# 							#
+#  my_reducer.py   			                #
+#							#
 #########################################################
 
 
@@ -36,3 +36,4 @@ for line in sys.stdin:
 
 # this is to catch the final counts after all records have been received.
 print("\t".join(str(v) for v in [last_turf,"" turf_count]))
+
