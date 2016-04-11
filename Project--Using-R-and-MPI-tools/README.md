@@ -73,3 +73,10 @@ It also gives a graphical presentation of the ‘output.csv’ file
 
 * 3. Bash-sript:
 Main aim of bash script was to run both python and R program one by one and to make the process automated here.
+
+# CONCLUSION
+By using MPI and combination of number of cluster we can optimize the resources and can get fast results. This technique further can be used into the data analysis especially where large set of database file need to be handled and analyzed. Using R into the project has added many graphical tool of the data analysis which also can be used at the large scale.
+
+# Reference:
+ 
+* "http://harvardmagazine.com/2014/03/why-big-data-is-a-big-deal"
