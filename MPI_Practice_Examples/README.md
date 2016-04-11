@@ -18,3 +18,35 @@
   Because each process will be sending and receiving,if every process calls its Recv first, the
   program will hang. What about if each calls Send?)
 
+* Code_4: In our parallel implementation of the calculation of the dot product,
+  “dotProductParallel_1.py”, the number of processes must evenly divide the
+  length of the vectors. Rewrite the code so that it runs regardless of vector
+  length and number of processes (though for convenience, you may
+  assume that the vector length is greater than the number of processes).
+  Remember the principle of load balancing. Use Scatterv() to accomplish
+  this.
+
+* code_5: Alter your code from the previous exercise so that it calculates the
+  supremum norm(the maximal element) of one of the vectors (choose any
+  one). This will include changing the operator Op in the call to Reduce.
+
+*code_6: Use Scatter to parallellize the multiplication of a matrix and a vector. There
+  are two ways that this can be accomplished. Both use Scatter to distribute
+  the matrix, but one uses Bcast to distribute the vector and Gather to finish
+  while the other uses Scatter to segment the vector and finishes with
+  Reduce. Outline how each would be done. Discuss which would be more
+  efficient (hint: think about memory usage). Then, write the code for the
+  better one. Generate an arbitrary matrix on the root node. You may
+  assume that the number of processes is equal to the number of rows
+  (columns) of a square matrix. Example code demonstrating scattering a
+  matrix is shown below:
+  
+          from mpi4py import MPI
+          import numpy
+          comm = MPI.COMM_WORLD
+          rank = comm.Get_rank()
+          A = numpy.array([[1.,2.,3.],[4.,5.,6.],[7.,8.,9.]])
+          local_a = numpy.zeros(3)
+          comm.Scatter(A,local_a)
+          print "process", rank, "has", local_a
+
