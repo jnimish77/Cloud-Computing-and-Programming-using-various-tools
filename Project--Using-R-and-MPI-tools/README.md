@@ -2,7 +2,8 @@
 (Contributed by: Nimish Joshi, Ameya Kathapurrkar, Rushikesh Jagdale & Tahhan Sadaf Yusuf)
 
 # Abstract:
-	* The rapid growth of measuring paradigms has led to accumulation of “Big-Data”; leading to an urgency of data analysis. Data accumulating at what rate, its understandability and usability is the current task of Data Analysis personnel. With proper handling and appropriate analysis can lead to new results and thus these results can be used for modelling automation. This project is a prototype towards the Big Data problem. MPI based communication coupled with powerful statistical language like R has paved the way to solve complex data analytic problem. We use the same tools to demonstrate the analysis of a sample data to plot its graphs and display its meaning from supplied dataset of dictionary.
+
+  * The rapid growth of measuring paradigms has led to accumulation of “Big-Data”; leading to an urgency of data analysis. Data accumulating at what rate, its understandability and usability is the current task of Data Analysis personnel. With proper handling and appropriate analysis can lead to new results and thus these results can be used for modelling automation. This project is a prototype towards the Big Data problem. MPI based communication coupled with powerful statistical language like R has paved the way to solve complex data analytic problem. We use the same tools to demonstrate the analysis of a sample data to plot its graphs and display its meaning from supplied dataset of dictionary.
 
 # INTRODUCTION:
 
