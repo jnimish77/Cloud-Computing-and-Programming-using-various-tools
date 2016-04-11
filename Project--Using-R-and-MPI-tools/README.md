@@ -5,7 +5,9 @@
    * 3.r_final.R* 4.Nimish_finalcode.py
 
 
-* In the terminal we need to use following command:
- We type
-           mpiexex/mpirun
+  *In the terminal we need to use following command:
+
+           mpiexec -n 11 python /home/nj2/Downloads/Nimish_Cloud_Project_1/Nimish_finalcode.py data cloud resources model machine hardware system application factor power 
+
+
 
