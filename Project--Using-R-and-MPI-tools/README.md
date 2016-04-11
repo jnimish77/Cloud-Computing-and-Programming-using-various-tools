@@ -40,5 +40,5 @@ We will look each results one by one.
 ![one](https://cloud.githubusercontent.com/assets/14539985/14420119/c634624a-ff8f-11e5-94a7-6abaa333e3d7.png)
 
 
-
-
+* In abstract manner, here master node is sharing .txt file with slave nodes which is broadcasted to them. User gives user input and distributed to all 10 different nodes: no node receive more than one word.
+* Later is these words are being searched and will get back with its count to the master nodes. All the output from different nodes would be saved into an output file in .csv format.
