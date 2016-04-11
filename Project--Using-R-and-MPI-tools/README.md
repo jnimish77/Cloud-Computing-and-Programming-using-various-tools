@@ -45,4 +45,7 @@ We will look each results one by one.
 
 * 2. R-Script:
 
+![image](https://cloud.githubusercontent.com/assets/14539985/14420223/726089a4-ff90-11e5-88a2-080103544c00.png)
+
+
 
