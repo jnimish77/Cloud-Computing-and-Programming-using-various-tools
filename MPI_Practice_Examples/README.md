@@ -18,8 +18,3 @@
   Because each process will be sending and receiving,if every process calls its Recv first, the
   program will hang. What about if each calls Send?)
 
-* Code:4 Implement the Load-balancing fix to the code trapParallel_1.py. The program should be able
-  to take in any number of trapezoids n for any number of processes and the trapezoids
-  should divide themselves among the processes evenly, differing by at most one between
-  any two processes.
-
