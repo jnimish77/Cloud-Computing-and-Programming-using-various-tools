@@ -55,3 +55,20 @@ We will look each results one by one.
 Matching of user input words will be displayed with its 3 different meanings. Furthermore, data analysis of those output.csv file will be done through graphical representation that will be saved into .pdf file.
 
 It also gives a graphical presentation of the ‘output.csv’ file
+
+
+![image](https://cloud.githubusercontent.com/assets/14539985/14420405/906b3b96-ff91-11e5-9078-c4cd2dc6af0a.png)
+
+
+![image](https://cloud.githubusercontent.com/assets/14539985/14420406/938bb134-ff91-11e5-9e25-12adeb1d5ab7.png)
+
+
+
+![image](https://cloud.githubusercontent.com/assets/14539985/14420417/9abbf2de-ff91-11e5-87ad-9b03939d58a5.png)
+
+
+
+![image](https://cloud.githubusercontent.com/assets/14539985/14420420/9fe58e82-ff91-11e5-9c5f-18b4d033a42c.png)
+
+
+
