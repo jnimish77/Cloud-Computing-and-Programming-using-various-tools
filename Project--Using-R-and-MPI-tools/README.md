@@ -3,8 +3,8 @@
 
    * 1.dictionary_new.csv
    * 2.searchtest.txt
-   * 3.Nimish_finalcode.py
-   * 4.r_final.R*
+   * 3.Nimish_finalcode.py (MPI code)
+   * 4.r_final.R  (R code)
 
 * To run the bash script type the following into the terminal
 
