@@ -33,7 +33,8 @@
 
 * The bash script will combine these two: python and R-script to-gather. It fulfils our motto of scripts automation to speed up the process and to reduce the manual implementation of individual script.  
 We will look each results one by one.
-  *1.	Python Script:
+ 
+   *1.	Python Script:
 
 
 
