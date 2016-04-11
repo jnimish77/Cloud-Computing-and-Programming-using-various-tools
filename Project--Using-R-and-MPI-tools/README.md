@@ -27,10 +27,10 @@
 # RESULTS:
    
 	* The scripts contains three essential parts, considering all required library mentioned above are preloaded into the system with proper requirements. These three parts are followed.
-    * 1.	Python script
-    * 2.	R-script
-    * 3.	Bash script
-    * 
+   * 1.	Python script
+   * 2.	R-script
+   * 3.	Bash script
+
 * The bash script will combine these two: python and R-script to-gather. It fulfils our motto of scripts automation to speed up the process and to reduce the manual implementation of individual script.  
 We will look each results one by one.
   *1.	Python Script:
