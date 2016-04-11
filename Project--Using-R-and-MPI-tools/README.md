@@ -48,4 +48,9 @@ We will look each results one by one.
 ![image](https://cloud.githubusercontent.com/assets/14539985/14420223/726089a4-ff90-11e5-88a2-080103544c00.png)
 
 
+![image](https://cloud.githubusercontent.com/assets/14539985/14420268/c9ced8ee-ff90-11e5-8a48-a0e1f0967fa0.png)
 
+
+* In the R-script, the output file from python code will be read and saved into the data frame which later will be compared with the dictionary database that we have made of .csv file.
+Matching of user input words will be displayed with its 3 different meanings. Furthermore, data analysis of those output.csv file will be done through graphical representation that will be saved into .pdf file.
+It also gives a graphical presentation of the ‘output.csv’ file
