@@ -53,4 +53,5 @@ We will look each results one by one.
 
 * In the R-script, the output file from python code will be read and saved into the data frame which later will be compared with the dictionary database that we have made of .csv file.
 Matching of user input words will be displayed with its 3 different meanings. Furthermore, data analysis of those output.csv file will be done through graphical representation that will be saved into .pdf file.
+
 It also gives a graphical presentation of the ‘output.csv’ file
