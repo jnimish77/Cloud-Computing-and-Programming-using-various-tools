@@ -1,3 +1,7 @@
+# Project: Word-count using 11 node MPI Cluster & Data Analysis of its results using ‘R
+(Contributed by: Nimish Joshi, Ameya Kathapurrkar, Rushikesh Jagdale & Tahhan Sadaf Yusuf)
+
+
 # Required files to implement the project are as followed:
 
 
