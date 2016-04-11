@@ -42,3 +42,7 @@ We will look each results one by one.
 
 * In abstract manner, here master node is sharing .txt file with slave nodes which is broadcasted to them. User gives user input and distributed to all 10 different nodes: no node receive more than one word.
 * Later is these words are being searched and will get back with its count to the master nodes. All the output from different nodes would be saved into an output file in .csv format.
+
+* 2. R-Script:
+
+
