@@ -71,4 +71,5 @@ It also gives a graphical presentation of the ‘output.csv’ file
 ![image](https://cloud.githubusercontent.com/assets/14539985/14420420/9fe58e82-ff91-11e5-9c5f-18b4d033a42c.png)
 
 
-
+* 3. Bash-sript:
+Main aim of bash script was to run both python and R program one by one and to make the process automated here.
