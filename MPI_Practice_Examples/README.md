@@ -30,7 +30,7 @@
   supremum norm(the maximal element) of one of the vectors (choose any
   one). This will include changing the operator Op in the call to Reduce.
 
-*code_6: Use Scatter to parallellize the multiplication of a matrix and a vector. There
+* code_6: Use Scatter to parallellize the multiplication of a matrix and a vector. There
   are two ways that this can be accomplished. Both use Scatter to distribute
   the matrix, but one uses Bcast to distribute the vector and Gather to finish
   while the other uses Scatter to segment the vector and finishes with
@@ -38,8 +38,9 @@
   efficient (hint: think about memory usage). Then, write the code for the
   better one. Generate an arbitrary matrix on the root node. You may
   assume that the number of processes is equal to the number of rows
-  (columns) of a square matrix. Example code demonstrating scattering a
-  matrix is shown below:
+  (columns) of a square matrix. 
+   
+  Example code demonstrating scattering a matrix is shown below:
   
           from mpi4py import MPI
           import numpy
