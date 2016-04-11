@@ -1,4 +1,4 @@
-# Required files to implement the project we require the following files:
+# Required files to implement the project are as followed:
 
 * 1.dictionary_new.csv
 * 2.searchtest.txt
