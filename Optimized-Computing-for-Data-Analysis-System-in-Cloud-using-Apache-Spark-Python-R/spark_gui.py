@@ -206,7 +206,7 @@ def carry_on():
 
 	#os.system("python "+ 'gui2.py')
 	#os.system("Rscript " + "R/gui3map_final.R")
-	os.system("./bin/sparkR " + "/home/nj/R/gui3map_final.R")
+	os.system("./bin/sparkR " + "/home/nj/R/data_analysis_with_map.R")
 
 
 Button(root,bg='green',fg='white',text = 'Click To Continue', command = carry_on).pack(padx=20)
