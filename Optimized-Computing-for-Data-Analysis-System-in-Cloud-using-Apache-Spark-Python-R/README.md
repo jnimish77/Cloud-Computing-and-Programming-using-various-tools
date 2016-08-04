@@ -7,14 +7,15 @@ The coding for this GUI is done in Python. I have used Tkinter library for such 
 Considering the fact that we have more than 2 GB of data (csv) file and millions of information inside it. Where we might need just few useful information because of the user need, this GUI will help to narrow down the search terms and facilitate an idea to process the result.
 
 * Options for the GUI incudes:
-          1.city
-          2.zipcode/ area name
-          3. type of crime
-          4. year
-          5. Month
-          6. Day/Date
-          7. Time frame/window of the day (in hours)
-     Here is a sample gui & design which shows the idea of end results.
+              1.city
+             2.zipcode/ area name
+            3. type of crime
+            4. year
+            5. Month
+            6. Day/Date
+            7. Time frame/window of the day (in hours)
+
+* Here is a sample gui & design which shows the idea of end results.
 
 
 
