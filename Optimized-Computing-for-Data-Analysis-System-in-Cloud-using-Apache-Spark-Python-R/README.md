@@ -19,4 +19,8 @@ Options for the GUI incudes:
 * Here is a sample gui & design which shows the idea of end results.
 
 
+![image](https://cloud.githubusercontent.com/assets/14539985/17390052/0c6e4138-59cf-11e6-8e30-635d0dfc3690.png)
+
+
+
 
