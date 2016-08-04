@@ -26,11 +26,11 @@ Options for the GUI incudes:
    
 * In the Graphical User Interface the first Criteria is City; it has two options (1.Bostin & 2. Chicago)
 
-*The second option is zip code, which ranges from 60601 to 60696 that covers the Chicago city areas. With this option user will be able to get the specific crime analysis for the chosen zip code option.
+* The second option is zip code, which ranges from 60601 to 60696 that covers the Chicago city areas. With this option user will be able to get the specific crime analysis for the chosen zip code option.
 
-*Third option, crime type gives the filter results for the chosen crime type into the particular area. Crime types are taken for the previous interim results for the further analysis.
+* Third option, crime type gives the filter results for the chosen crime type into the particular area. Crime types are taken for the previous interim results for the further analysis.
 
-*In the Year option, user can choose from 2001 to 2016. This option will further narrow down the results.
+* In the Year option, user can choose from 2001 to 2016. This option will further narrow down the results.
 Likewise, the Month and Date and Time option gives the particular month date and time frame respectively.
 
 * User further need to submit the selection after they make their selection. Later the user need to ‘Click to Continue’ for the process of the data and to get the analyzed results.
