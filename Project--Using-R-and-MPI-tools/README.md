@@ -20,7 +20,7 @@
 
   *inside the bash for an MPI process we would type the following command:
 
-           $ mpiexec -n 11 python /home/nj2/Downloads/Nimish_Cloud_Project_1/Nimish_finalcode.py data cloud resources model machine hardware system application factor power 
+           $ mpiexec -n 11 python <location of the .py file> data cloud resources model machine hardware system application factor power 
 
 *Later for R we would type the following
 
